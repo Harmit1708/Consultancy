@@ -1,0 +1,6 @@
+{
+	"appId": "com.reign.app",
+	"appName": "Consultancy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

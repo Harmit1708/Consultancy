@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dc7bd2c.css",
+    "main.js": "/static/js/main.e79cf06d.js",
+    "static/media/bigstock-handshake-isolated-on-business-42882616-1500x630.jpg": "/static/media/bigstock-handshake-isolated-on-business-42882616-1500x630.7bbed752a523354c165c.jpg",
+    "index.html": "/index.html",
+    "main.6dc7bd2c.css.map": "/static/css/main.6dc7bd2c.css.map",
+    "main.e79cf06d.js.map": "/static/js/main.e79cf06d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc7bd2c.css",
+    "static/js/main.e79cf06d.js"
+  ]
+}
